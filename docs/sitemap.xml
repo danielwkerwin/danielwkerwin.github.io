@@ -7,6 +7,34 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/2015/05/test-2/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/articles/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/baseball/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/baseball/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/</loc>
     <lastmod>2017-01-21T21:14:42-08:00</lastmod>
     <priority>0</priority>
@@ -15,6 +43,17 @@
   <url>
     <loc>http://danielwkerwin.com/post/</loc>
     <lastmod>2017-01-21T21:14:42-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/website/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -19,5 +19,16 @@
 </description>
     </item>
     
+    <item>
+      <title>Test 2</title>
+      <link>http://danielwkerwin.com/2015/05/test-2/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielwkerwin.com/2015/05/test-2/</guid>
+      <description>&lt;p&gt;This is a full test of my website.
+&lt;!-- more /--&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
