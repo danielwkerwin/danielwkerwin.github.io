@@ -4,7 +4,7 @@ date = "2017-02-10"
 title = "Sample Photos"
 keywords = ["photos"]
 tags = ["photos","sports"]
-gallery = ["danielwkerwin.com/images/PNG-karate-1.jpg"]
+gallery = ["http://www.danielwkerwin.com/images/PNG-karate-1.jpg"]
 
 +++
 
