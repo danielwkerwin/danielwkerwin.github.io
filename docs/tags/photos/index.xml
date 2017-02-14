@@ -11,12 +11,21 @@
     <item>
       <title>Sample Photos</title>
       <link>http://danielwkerwin.com/2017/02/sample-photos/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://danielwkerwin.com/2017/02/sample-photos/</guid>
+      <description>&lt;p&gt;A sample gallery of my published photos.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Photos</title>
+      <link>http://danielwkerwin.com/2017/02/sample-photos/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://danielwkerwin.com/2017/02/sample-photos/</guid>
-      <description>&lt;p&gt;A sample gallery of published photos I have taken.
-&lt;!-- more /--&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;A sample gallery of my published photos.
+&lt;/p&gt;</description>
     </item>
     
   </channel>

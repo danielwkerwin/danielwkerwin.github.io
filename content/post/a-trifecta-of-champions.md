@@ -7,7 +7,9 @@ keywords = ["sports"]
 
 +++
 
-<b><i>Here is an article I wrote that was published in the New Ulm Journal on March 4, 2012 about three Minnesota state champion high school wrestlers hailing from towns near New Ulm.</i>
+<b><i>Here is an article of mine that was published in the New Ulm Journal on March 4, 2012 about three Minnesota state champion high school wrestlers hailing from towns near New Ulm.</i>
+
+<!--more-->
 
 Subhead: Anderson, Rose and Cooling win state wrestling titles</b>
 
@@ -145,4 +147,3 @@ Juniors Cody Hanson (106 pounds) and Richy Soto (120) were the only Saints to ad
 Hanson was defeated in a 7-2 decision by Chatfield's Hank Friederichs to end his tournament, but Soto won his consolation quarterfinal match over Pierz's Chris Ortman to guarantee himself a finish of no worse than sixth place in his first state tournament appearance.
 
 Soto ran into tough competition the rest of the way and ended up placing sixth. He fell to New Richland-Hartland-Ellendale-Geneva senior by an 8-3 decision in the consolation semifinals to leave him in the fifth-place match, where he lost to Goblirsch by an 8-1 decision.
-<!-- more /-->

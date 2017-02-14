@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://danielwkerwin.com/home</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/birkebeiner-is-baptism-by-fire-for-rookie-nordic-skiers/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/glbt-issues-raised-at-macalester-blood-drive/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/huskies-headed-to-state/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/huskies-on-the-prowl-jackson-county-central-groomed-for-state-tourney-run/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/link-to-my-blogs/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/nordic-team-skis-with-the-best-at-the-birkebeiner-race/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/sample-photos/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/2017/02/zinn-takes-on-just-wars-at-inaugural-philosophy-colloquium/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/2017/02/sample-photos/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -17,18 +62,20 @@
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/2017/01/test/</loc>
-    <lastmod>2017-01-21T21:14:42-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://danielwkerwin.com/2015/05/test-2/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://danielwkerwin.com/bio/</loc>
+    <loc>http://danielwkerwin.com/bio</loc>
     <lastmod>1988-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/academics/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/academics/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -45,19 +92,37 @@
   
   <url>
     <loc>http://danielwkerwin.com/categories/articles/</loc>
-    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/tags/baseball/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <loc>http://danielwkerwin.com/tags/basketball/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/categories/baseball/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <loc>http://danielwkerwin.com/categories/basketball/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/birkebeiner/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/blog/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/blood-drive/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,14 +132,32 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/tags/chill-time-with-dk/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/tags/daily-globe/</loc>
-    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://danielwkerwin.com/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/history/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/home/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,8 +168,38 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/tags/nordic-skiing/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/nordic-skiing/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/tags/photos/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/photos/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/politics/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/politics/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,13 +211,19 @@
   
   <url>
     <loc>http://danielwkerwin.com/post/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://danielwkerwin.com/tags/sports/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/sports-nuts/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,8 +233,14 @@
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/tags/website/</loc>
-    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <loc>http://danielwkerwin.com/tags/the-mac-weekly/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/welcome/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
