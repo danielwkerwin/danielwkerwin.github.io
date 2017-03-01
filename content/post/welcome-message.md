@@ -13,5 +13,6 @@ weight = 1
 url = "home"
 
 +++
+<!--more-->
 
-<!-- more /-->
+Looking for a place to get started? Why not check out my <a href="../categories/portfolio/">portfolio</a>.

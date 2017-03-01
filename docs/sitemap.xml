@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/bio</loc>
+    <lastmod>1988-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/2017/02/birkebeiner-is-baptism-by-fire-for-rookie-nordic-skiers/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
   </url>
@@ -47,6 +52,11 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/2017/02/writing-samples/</loc>
+    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/2017/02/sample-photos/</loc>
     <lastmod>2017-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -57,13 +67,13 @@
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/2017/02/at-arms-strength-rushmores-richard-lupkes-wins-world-armwrestlingtitle/</loc>
-    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
+    <loc>http://danielwkerwin.com/2017/02/twins-caravan-hits-new-ulm/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://danielwkerwin.com/bio</loc>
-    <lastmod>1988-05-21T00:00:00+00:00</lastmod>
+    <loc>http://danielwkerwin.com/2017/02/at-arms-strength-rushmores-richard-lupkes-wins-world-armwrestlingtitle/</loc>
+    <lastmod>2017-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,6 +103,18 @@
   <url>
     <loc>http://danielwkerwin.com/categories/articles/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/baseball/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/categories/baseball/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,8 +226,14 @@
   </url>
   
   <url>
+    <loc>http://danielwkerwin.com/tags/portfolio/</loc>
+    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://danielwkerwin.com/categories/portfolio/</loc>
-    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -235,6 +263,12 @@
   <url>
     <loc>http://danielwkerwin.com/tags/the-mac-weekly/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://danielwkerwin.com/tags/twins/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
